@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(250, 215, 229);
+    color: rgb(190, 73, 89);
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.title-one{
+    text-align: center;
+    background-color: rgb(240, 194, 68);
+}
+
+p{
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: solid;
+}
+
+img{
+    border-radius: 25px;
+
+}
+#image-one{
+    margin-top: 30px;
+    height: 400px;
+}
